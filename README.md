@@ -35,9 +35,9 @@
 
 - [轮回纪实](LifeExplore/Lunhui/lunhui-index.md) ｜ [神话之谜](LifeExplore/myth/myth-index.md) ｜ [地球历史与奥秘](LifeExplore/HistoryofEarth/earth-index.md) ｜ [历史的天空-法缘](LifeExplore/fayuan.md)
 
-- [科学新见](LifeExplore/Science/ScienceIndex.md)  | [第三只眼带你看世界](LifeExplore/Science/ThirdEye.md)｜ [进化论--人类最大的科学误区](LifeExplore/Science/evolution-mistake.md)
+- [科学新见](LifeExplore/Science/ScienceIndex.md)  |  [进化论--人类最大的科学误区](LifeExplore/Science/evolution-mistake.md)
 
-- [揭开“神用泥土造人”的秘密](LifeExplore/nituzaoren.md) | [预言中的今天](LifeExplore/yuyan/yuyan-index.md) | [七印解封](LifeExplore/yuyan/7yin.md)
+- [第三只眼带你看世界](LifeExplore/Science/ThirdEye.md)｜[揭开“神用泥土造人”的秘密](LifeExplore/nituzaoren.md)
 
 ---
 
