@@ -43,7 +43,5 @@
 
 ### 正法修炼
 
-[法轮大法书籍 在线阅读](https://aq1.abcd3.eu.org/?Oq40BRCNQVFL9=F4hk&uxQ0=gQ3&n4afJ3_9=wO&lIJRMDOm=_V60pNSJX&q1=ruGx&hJoLIU=5dB7pw)
-
 [和师父在一起的日子](Truth/xiulian/yishien.md)
 
