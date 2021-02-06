@@ -2,7 +2,11 @@
 
 ---
 
-大疫当前，送您 [避疫良方](Truth/biyi/biyi-index.md) 
+大疫当前，送您：
+
+[避疫良方](Truth/biyi/biyi-index.md)  
+
+[预言通解：2021终极瘟疫劫！何处可逃？](Truth/biyi/yuyan0206.md)
 
 ---
 
@@ -34,10 +38,9 @@
 ### 生命探索
 
 - [轮回纪实](LifeExplore/Lunhui/lunhui-index.md) ｜ [神话之谜](LifeExplore/myth/myth-index.md) ｜ [地球历史与奥秘](LifeExplore/HistoryofEarth/earth-index.md) ｜ [历史的天空-法缘](LifeExplore/fayuan.md)
-
 - [科学新见](LifeExplore/Science/ScienceIndex.md)  |  [进化论--人类最大的科学误区](LifeExplore/Science/evolution-mistake.md)
-
-- [第三只眼带你看世界](LifeExplore/Science/ThirdEye.md)｜[揭开“神用泥土造人”的秘密](LifeExplore/nituzaoren.md)
+- [第三只眼带你看世界](LifeExplore/Science/ThirdEye.md)｜[揭开“神用泥土造人”的秘密](LifeExplore/nituzaoren.md) 
+- [预言通解：2021终极瘟疫劫！何处可逃？](Truth/biyi/yuyan0206.md)
 
 ---
 
