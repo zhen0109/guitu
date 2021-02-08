@@ -2,9 +2,11 @@
 
 ---
 
-大疫当前，送您：
+**大疫当前，送您：**
 
-[避疫良方](Truth/biyi/biyi-index.md)  
+[避疫良方](Truth/biyi/biyi-index.md)   [如何才能走出“武汉肺炎”大难？](Truth/biyi/0830biyi.md)
+
+[“眼见为实”的母亲亲历神迹](Truth/jcfs/2.md)
 
 [预言通解：2021终极瘟疫劫！何处可逃？](Truth/biyi/yuyan0206.md)
 
