@@ -48,5 +48,7 @@
 
 ### 正法修炼
 
+[转法轮在线阅读](https://aq1.abcd3.eu.org/?oxb7veByFZXR5=ASqNXGab2v&Nvt=LO&g8=C15bNlyIrD&inkk=iOAd)
+
 [和师父在一起的日子](Truth/xiulian/yishien.md)
 
