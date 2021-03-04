@@ -1,14 +1,4 @@
-小贴士：若是微信扫码进来，可能某些链接（如动态网）打不开，提示被封信息。请点击右上角三点“...”选择用浏览器打开即可观看。长期收看，请收藏本站和下载翻墙软件。
-
----
-
-**大疫当前，送您：**
-
-[避疫良方](Truth/biyi/biyi-index.md)   [如何才能走出“武汉肺炎”大难？](Truth/biyi/0830biyi.md)
-
-[“眼见为实”的母亲亲历神迹](Truth/jcfs/2.md)
-
-[预言通解：2021终极瘟疫劫！何处可逃？](Truth/biyi/yuyan0206.md)
+小贴士：若是微信扫码进来，请点击右上角三点“...”选择用浏览器打开观看（国产浏览器会可能会有安全提示，请忽略）。长期收看，请收藏本站和下载翻墙软件。
 
 ---
 
@@ -29,7 +19,7 @@
 
 - [世纪伪案 自焚骗局](Truth/zfzx/qk.md) ｜ [4.25和平上访](Truth/425/425-index.md) ｜ [1400例真相](Truth/1400/mh-1400.md) 
 
-- [三个事实 破除谎言](Truth/3t/3facts0928.md) | [勿错过万古机缘](Truth/xiulian/1031xiulian.md)
+- [三个事实 破除谎言](Truth/3t/3facts0928.md) | [勿错过万古机缘](Truth/xiulian/1031xiulian.md) | [“眼见为实”的母亲亲历神迹](Truth/jcfs/2.md) | [由20年前“天安门自焚伪案”想到的](Truth/3t/0202tui.md)
 
 - [九评共产党](Books/9p/9p-index.md)  ｜ [江泽民其人](Books/jzmqr/index.md)
 
@@ -42,7 +32,6 @@
 - [轮回纪实](LifeExplore/Lunhui/lunhui-index.md) ｜ [神话之谜](LifeExplore/myth/myth-index.md) ｜ [地球历史与奥秘](LifeExplore/HistoryofEarth/earth-index.md) ｜ [历史的天空-法缘](LifeExplore/fayuan.md)
 - [科学新见](LifeExplore/Science/ScienceIndex.md)  |  [进化论--人类最大的科学误区](LifeExplore/Science/evolution-mistake.md)
 - [第三只眼带你看世界](LifeExplore/Science/ThirdEye.md)｜[揭开“神用泥土造人”的秘密](LifeExplore/nituzaoren.md) 
-- [预言通解：2021终极瘟疫劫！何处可逃？](Truth/biyi/yuyan0206.md)
 
 ---
 
