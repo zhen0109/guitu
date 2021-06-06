@@ -5,7 +5,7 @@
 ### 正义媒体
 
 - [动态网](https://5a.jyg7.eu.org/jhg/6578) 
-- [综合资讯](https://github.com/phqfjo324/www/blob/master/README.md)
+- [github链接](https://github.com/phqfjo324/www/blob/master/README.md)
 
 ---
 
